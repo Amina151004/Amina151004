@@ -54,18 +54,5 @@ I enjoy transforming ideas into functional, intuitive, and visually appealing ap
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=Amina151004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Amina151004&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amina151004&theme=dark&hide_border=false&layout=compact)
-
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Amina151004&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-### 👀 Profile Visitors
-![](https://visitcount.itsvg.in/api?id=Amina151004&icon=9&color=0)
 
 *Building, learning, and creating one project at a time.* 💜
